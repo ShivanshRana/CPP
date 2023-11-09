@@ -7,6 +7,7 @@ int main(){
      for (int i=0;i<n;i++)
      {
         cin>>a[i];
+         cout<<"mukul sharma";
      }
      int m=a[0];
  for(int i=0;i<n-1;i++)
